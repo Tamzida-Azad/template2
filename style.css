@@ -6,6 +6,7 @@
 
 .wrapper {
     margin: 10px 30px 0px 35px;
+    max-width: 1520px;
     box-sizing: border-box;
     overflow: hidden;
 }
@@ -66,7 +67,7 @@
 
 .Box1 {
     width:20%;
-    padding: 230px 194px 230px 153px;
+    padding: 230px 173px 230px 148px;
     margin-right: 10px;
     font-size: 23px;
     text-align: center;
@@ -84,7 +85,7 @@
     margin-right: 10px;
     font-size: 23px;
     text-align: center;
-    padding: 230px 194px 230px 153px;
+    padding: 230px 173px 230px 148px;
     box-sizing: border-box;
     background-color: #9e8b55;
     float: left;
@@ -96,7 +97,7 @@
     margin-right: 10px;  /*padding: 40px 220px 40px 20px;*/
     font-size: 23px;
     text-align: center;
-    padding: 230px 194px 230px 153px;
+    padding: 230px 173px 230px 148px;
     box-sizing: border-box;
     background-color: #9e8b55;
     float: left;
@@ -108,7 +109,7 @@
     font-size: 23px;
     text-align: center;
     /*padding: 40px 220px 40px 20px;*/
-    padding: 230px 199px 230px 153px;
+    padding: 230px 180px 230px 148px;
     box-sizing: border-box;
     background-color: #9e8b55;
     float: right;
